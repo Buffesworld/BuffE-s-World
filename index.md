@@ -75,9 +75,6 @@ body {font-family: Arial;}
 </head>
 <body>
 
-<h2>Tabs</h2>
-<p>Click on the buttons inside the tabbed menu:</p>
-
 <div class="tab">
   <button class="tablinks" onclick="openCity(event, 'Full Release')">Full Release</button>
   <button class="tablinks" onclick="openCity(event, 'Beta')">Beta</button>
