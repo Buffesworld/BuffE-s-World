@@ -59,12 +59,12 @@ body {font-family: Arial;}
 <body>
 
 <div class="tab">
-<button class="tablinks" onclick="openCity(event, 'Full Release')">Full Release</button>
+<button class="tablinks" onclick="openCity(event, 'Full Release')" id="defaultOpen">Full Release</button>
   <button class="tablinks" onclick="openCity(event, 'Beta')">Beta</button>
   <button class="tablinks" onclick="openCity(event, 'Alpha')">Alpha</button>
 </div>
 
-<div id="Full Release" id="defaultOpen" class="tabcontent">
+<div id="Full Release" class="tabcontent">
   <p>None Yet :)</p>
 </div>
 
