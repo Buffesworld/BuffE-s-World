@@ -1,8 +1,6 @@
 # Home
-
+#### Mod Version: 1.16.5
 ### Downloads:
-##### As they go down, they get more and more cursed   -- Also 1.16.5
-###### Credit: [RebootGreen](https://mine.ly/RebootGreen.1) omg those textures....
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -135,4 +133,4 @@ function openCity(evt, cityName) {
    
 </body>
 </html> 
-
+###### Credit: [RebootGreen](https://mine.ly/RebootGreen.1) omg those textures....
