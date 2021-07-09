@@ -69,7 +69,9 @@ body {font-family: Arial;}
 <div id="Beta" class="tabcontent">
  <p>As they go down, they get more and more cursed lol</p>
  <p>Mod Version: 1.16.5</p>
- <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv14%20(beta).jar?raw=true">Download Latest Beta</a><br>
+ <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv15%20(beta).jar?raw=true">Download Latest Beta</a><br>
+ <br>
+ <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv15%20(beta).jar?raw=true">Download Latest Beta</a><br>
  <br>
  <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv14%20(beta).jar?raw=true">Download v14</a><br>
  <br>
