@@ -79,9 +79,9 @@ body {font-family: Arial;}
 <p>Click on the buttons inside the tabbed menu:</p>
 
 <div class="tab">
-  <button class="tablinks" onclick="openCity(event, 'London')">London</button>
-  <button class="tablinks" onclick="openCity(event, 'Paris')">Paris</button>
-  <button class="tablinks" onclick="openCity(event, 'Tokyo')">Tokyo</button>
+  <button class="tablinks" onclick="openCity(event, 'Full Release')">Full Release</button>
+  <button class="tablinks" onclick="openCity(event, 'Beta')">Beta</button>
+  <button class="tablinks" onclick="openCity(event, 'Alpha')">Alpha</button>
 </div>
 
 <div id="Full Release" class="tabcontent">
