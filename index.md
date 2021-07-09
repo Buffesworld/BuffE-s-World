@@ -87,8 +87,21 @@ body {font-family: Arial;}
 </div>
 
 <div id="Beta" class="tabcontent">
- <p>v14: </p><a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv14%20(beta).jar?raw=true">Download</a>
- 
+ <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv14%20(beta).jar?raw=true">Download Latest Beta</a>
+ <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv14%20(beta).jar?raw=true">Download v14</a>
+ <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv13%20(beta).jar?raw=true">Download v13</a>
+ <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv12%20(beta).jar?raw=true">Download v12</a>
+ <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv11%20(beta).jar?raw=true">Download v11</a>
+ <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv10%20(beta).jar?raw=true">Download v10</a>
+ <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv9%20(beta).jar?raw=true">Download v9</a>
+ <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv8%20(beta).jar?raw=true">Download v8</a>
+ <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv7%20(beta).jar?raw=true">Download v7</a>
+ <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv6%20(beta).jar?raw=true">Download v6</a>
+ <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv5%20(beta).jar?raw=true">Download v5</a>
+ <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv4.jar?raw=true">Download v4</a>
+ <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv3.jar?raw=true">Download v3</a>
+ <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworld%20v2.jar?raw=true">Download v2</a>
+ <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buff-e-world%20v1.jar?raw=true">Download v1</a>
 </div>
 
 <div id="Alpha" class="tabcontent">
