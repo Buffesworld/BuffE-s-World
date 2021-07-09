@@ -1,5 +1,4 @@
 # Home
-#### Mod Version: 1.16.5
 ### Downloads:
 <html>
 <head>
@@ -63,8 +62,8 @@ body {font-family: Arial;}
 </div>
 
 <div id="Full Release" class="tabcontent">
-  <p>None Yet :)</p>
   <p>Mod Version: 1.16.5</p>
+  <p>None Yet :)</p>
 </div>
 
 <div id="Beta" class="tabcontent">
