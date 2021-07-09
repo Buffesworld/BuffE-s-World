@@ -90,7 +90,7 @@ body {font-family: Arial;}
 </div>
 
 <div id="Beta" class="tabcontent">
-  <h3>Paris</h3>
+  ###### v14: [Download](https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv14%20(beta).jar?raw=true)
   <p>Paris is the capital of France.</p> 
 </div>
 
