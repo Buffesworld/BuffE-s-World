@@ -64,7 +64,7 @@ body {font-family: Arial;}
   <button class="tablinks" onclick="openCity(event, 'Alpha')">Alpha</button>
 </div>
 
-<div id="Full Release" class="tabcontent">
+<div id="Full Release" id="defaultOpen" class="tabcontent">
   <p>None Yet :)</p>
 </div>
 
@@ -130,6 +130,10 @@ function openCity(evt, cityName) {
   document.getElementById(cityName).style.display = "block";
   evt.currentTarget.className += " active";
 }
+</script>
+ <script>
+// Get the element with id="defaultOpen" and click on it
+document.getElementById("defaultOpen").click();
 </script>
    
 </body>
