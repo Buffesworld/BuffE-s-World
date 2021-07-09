@@ -1,9 +1,9 @@
 # Home
 
 ### Downloads:
-#### As they go down, they get more and more cursed   -- Also 1.16.5
+##### As they go down, they get more and more cursed   -- Also 1.16.5
 
-#### Beta
+### Beta
 ##### Latest Beta: [Download](https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv14%20(beta).jar?raw=true)
 ###### v14: [Download](https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv14%20(beta).jar?raw=true)
 ###### v13: [Download](https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv13%20(beta).jar?raw=true)
