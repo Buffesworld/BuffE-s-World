@@ -82,8 +82,7 @@ body {font-family: Arial;}
 </div>
 
 <div id="Full Release" class="tabcontent">
-  <h3>London</h3>
-  <p>London is the capital city of England.</p>
+  <p>None Yet :)</p>
 </div>
 
 <div id="Beta" class="tabcontent">
@@ -105,8 +104,12 @@ body {font-family: Arial;}
 </div>
 
 <div id="Alpha" class="tabcontent">
-  <h3>Tokyo</h3>
-  <p>Tokyo is the capital of Japan.</p>
+ <a href="https://www.youtube.com/embed/O91DT1pR1ew?autoplay=1&controls=0&modestbranding=1&disablekb=1&loop=1&fs=1&mouse=0&t=10">Download Final Alpha</a>
+ <a href="https://www.youtube.com/embed/O91DT1pR1ew?autoplay=1&controls=0&modestbranding=1&disablekb=1&loop=1&fs=1&mouse=0&t=10">Download v5</a>
+ <a href="https://www.youtube.com/embed/O91DT1pR1ew?autoplay=1&controls=0&modestbranding=1&disablekb=1&loop=1&fs=1&mouse=0&t=10">Download v4</a>
+ <a href="https://www.youtube.com/embed/O91DT1pR1ew?autoplay=1&controls=0&modestbranding=1&disablekb=1&loop=1&fs=1&mouse=0&t=10">Download v3</a>
+ <a href="https://www.youtube.com/embed/O91DT1pR1ew?autoplay=1&controls=0&modestbranding=1&disablekb=1&loop=1&fs=1&mouse=0&t=10">Download v2</a>
+ <a href="https://www.youtube.com/embed/O91DT1pR1ew?autoplay=1&controls=0&modestbranding=1&disablekb=1&loop=1&fs=1&mouse=0&t=10">Download v1</a>
 </div>
 
 <script>
