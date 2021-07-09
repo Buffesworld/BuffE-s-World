@@ -27,6 +27,15 @@ body {font-family: Arial;}
   transition: 0.3s;
   font-size: 17px;
 }
+ .tabcontent {
+  animation: fadeEffect 1s; /* Fading effect takes 1 second */
+}
+
+/* Go from zero to full opacity */
+@keyframes fadeEffect {
+  from {opacity: 0;}
+  to {opacity: 1;}
+}
 
 /* Change background color of buttons on hover */
 .tab button:hover {
