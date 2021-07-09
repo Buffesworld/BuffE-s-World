@@ -87,20 +87,35 @@ body {font-family: Arial;}
 
 <div id="Beta" class="tabcontent">
  <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv14%20(beta).jar?raw=true">Download Latest Beta</a><br>
+ <br>
  <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv14%20(beta).jar?raw=true">Download v14</a><br>
+ <br>
  <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv13%20(beta).jar?raw=true">Download v13</a><br>
+ <br>
  <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv12%20(beta).jar?raw=true">Download v12</a><br>
+ <br>
  <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv11%20(beta).jar?raw=true">Download v11</a><br>
+ <br>
  <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv10%20(beta).jar?raw=true">Download v10</a><br>
+ <br>
  <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv9%20(beta).jar?raw=true">Download v9</a><br>
+ <br>
  <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv8%20(beta).jar?raw=true">Download v8</a><br>
+ <br>
  <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv7%20(beta).jar?raw=true">Download v7</a><br>
+ <br>
  <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv6%20(beta).jar?raw=true">Download v6</a><br>
+ <br>
  <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv5%20(beta).jar?raw=true">Download v5</a><br>
+ <br>
  <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv4.jar?raw=true">Download v4</a><br>
+ <br>
  <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv3.jar?raw=true">Download v3</a><br>
+ <br>
  <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworld%20v2.jar?raw=true">Download v2</a><br>
+ <br>
  <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buff-e-world%20v1.jar?raw=true">Download v1</a><br>
+ <br>
 </div>
 
 <div id="Alpha" class="tabcontent">
