@@ -22,4 +22,4 @@
 ###### v1: [Download](https://github.com/Buffesworld/beta_mod_versions/blob/main/buff-e-world%20v1.jar?raw=true)
  
 ### Alpha
-###### [Download](https://www.youtube.com/embed/O91DT1pR1ew?autoplay=1&controls=0&modestbranding=1&disablekb=1&loop=1&fs=1&mouse=0&t=10)
+###### Alpha Release: [Download](https://www.youtube.com/embed/O91DT1pR1ew?autoplay=1&controls=0&modestbranding=1&disablekb=1&loop=1&fs=1&mouse=0&t=10)
