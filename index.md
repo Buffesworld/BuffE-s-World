@@ -130,10 +130,7 @@ function openCity(evt, cityName) {
   document.getElementById(cityName).style.display = "block";
   evt.currentTarget.className += " active";
 }
-</script>
- <script>
-// Get the element with id="defaultOpen" and click on it
-document.getElementById("defaultOpen").click();
+  document.getElementById("defaultOpen").click();
 </script>
    
 </body>
