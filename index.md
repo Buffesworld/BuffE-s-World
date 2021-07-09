@@ -71,7 +71,7 @@ body {font-family: Arial;}
  <p>Mod Version: 1.16.5</p>
  <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv15%20(beta).jar?raw=true">Download Latest Beta</a><br>
  <br>
- <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv15%20(beta).jar?raw=true">Download Latest Beta</a><br>
+ <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv15%20(beta).jar?raw=true">Download v15</a><br>
  <br>
  <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv14%20(beta).jar?raw=true">Download v14</a><br>
  <br>
