@@ -64,10 +64,12 @@ body {font-family: Arial;}
 
 <div id="Full Release" class="tabcontent">
   <p>None Yet :)</p>
+  <p>Mod Version: 1.16.5</p>
 </div>
 
 <div id="Beta" class="tabcontent">
  <p>As they go down, they get more and more cursed lol</p>
+ <p>Mod Version: 1.16.5</p>
  <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv14%20(beta).jar?raw=true">Download Latest Beta</a><br>
  <br>
  <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv14%20(beta).jar?raw=true">Download v14</a><br>
@@ -102,6 +104,7 @@ body {font-family: Arial;}
 
 <div id="Alpha" class="tabcontent">
  <p>As they go down, they get more and more cursed lol</p>
+ <p>Mod Version: 1.16.5</p>
  <a href="https://www.youtube.com/embed/O91DT1pR1ew?autoplay=1&controls=0&modestbranding=1&disablekb=1&loop=1&fs=1&mouse=0&t=10">Download Final Alpha</a><br>
  <br>
  <a href="https://www.youtube.com/embed/O91DT1pR1ew?autoplay=1&controls=0&modestbranding=1&disablekb=1&loop=1&fs=1&mouse=0&t=10">Download v5</a><br>
