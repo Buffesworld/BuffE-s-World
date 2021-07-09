@@ -86,30 +86,30 @@ body {font-family: Arial;}
 </div>
 
 <div id="Beta" class="tabcontent">
- <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv14%20(beta).jar?raw=true">Download Latest Beta</a>
- <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv14%20(beta).jar?raw=true">Download v14</a>
- <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv13%20(beta).jar?raw=true">Download v13</a>
- <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv12%20(beta).jar?raw=true">Download v12</a>
- <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv11%20(beta).jar?raw=true">Download v11</a>
- <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv10%20(beta).jar?raw=true">Download v10</a>
- <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv9%20(beta).jar?raw=true">Download v9</a>
- <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv8%20(beta).jar?raw=true">Download v8</a>
- <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv7%20(beta).jar?raw=true">Download v7</a>
- <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv6%20(beta).jar?raw=true">Download v6</a>
- <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv5%20(beta).jar?raw=true">Download v5</a>
- <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv4.jar?raw=true">Download v4</a>
- <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv3.jar?raw=true">Download v3</a>
- <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworld%20v2.jar?raw=true">Download v2</a>
- <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buff-e-world%20v1.jar?raw=true">Download v1</a>
+ <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv14%20(beta).jar?raw=true">Download Latest Beta</a><br>
+ <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv14%20(beta).jar?raw=true">Download v14</a><br>
+ <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv13%20(beta).jar?raw=true">Download v13</a><br>
+ <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv12%20(beta).jar?raw=true">Download v12</a><br>
+ <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv11%20(beta).jar?raw=true">Download v11</a><br>
+ <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv10%20(beta).jar?raw=true">Download v10</a><br>
+ <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv9%20(beta).jar?raw=true">Download v9</a><br>
+ <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv8%20(beta).jar?raw=true">Download v8</a><br>
+ <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv7%20(beta).jar?raw=true">Download v7</a><br>
+ <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv6%20(beta).jar?raw=true">Download v6</a><br>
+ <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv5%20(beta).jar?raw=true">Download v5</a><br>
+ <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv4.jar?raw=true">Download v4</a><br>
+ <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv3.jar?raw=true">Download v3</a><br>
+ <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworld%20v2.jar?raw=true">Download v2</a><br>
+ <a href="https://github.com/Buffesworld/beta_mod_versions/blob/main/buff-e-world%20v1.jar?raw=true">Download v1</a><br>
 </div>
 
 <div id="Alpha" class="tabcontent">
- <a href="https://www.youtube.com/embed/O91DT1pR1ew?autoplay=1&controls=0&modestbranding=1&disablekb=1&loop=1&fs=1&mouse=0&t=10">Download Final Alpha</a>
- <a href="https://www.youtube.com/embed/O91DT1pR1ew?autoplay=1&controls=0&modestbranding=1&disablekb=1&loop=1&fs=1&mouse=0&t=10">Download v5</a>
- <a href="https://www.youtube.com/embed/O91DT1pR1ew?autoplay=1&controls=0&modestbranding=1&disablekb=1&loop=1&fs=1&mouse=0&t=10">Download v4</a>
- <a href="https://www.youtube.com/embed/O91DT1pR1ew?autoplay=1&controls=0&modestbranding=1&disablekb=1&loop=1&fs=1&mouse=0&t=10">Download v3</a>
- <a href="https://www.youtube.com/embed/O91DT1pR1ew?autoplay=1&controls=0&modestbranding=1&disablekb=1&loop=1&fs=1&mouse=0&t=10">Download v2</a>
- <a href="https://www.youtube.com/embed/O91DT1pR1ew?autoplay=1&controls=0&modestbranding=1&disablekb=1&loop=1&fs=1&mouse=0&t=10">Download v1</a>
+ <a href="https://www.youtube.com/embed/O91DT1pR1ew?autoplay=1&controls=0&modestbranding=1&disablekb=1&loop=1&fs=1&mouse=0&t=10">Download Final Alpha</a><br>
+ <a href="https://www.youtube.com/embed/O91DT1pR1ew?autoplay=1&controls=0&modestbranding=1&disablekb=1&loop=1&fs=1&mouse=0&t=10">Download v5</a><br>
+ <a href="https://www.youtube.com/embed/O91DT1pR1ew?autoplay=1&controls=0&modestbranding=1&disablekb=1&loop=1&fs=1&mouse=0&t=10">Download v4</a><br>
+ <a href="https://www.youtube.com/embed/O91DT1pR1ew?autoplay=1&controls=0&modestbranding=1&disablekb=1&loop=1&fs=1&mouse=0&t=10">Download v3</a><br>
+ <a href="https://www.youtube.com/embed/O91DT1pR1ew?autoplay=1&controls=0&modestbranding=1&disablekb=1&loop=1&fs=1&mouse=0&t=10">Download v2</a><br>
+ <a href="https://www.youtube.com/embed/O91DT1pR1ew?autoplay=1&controls=0&modestbranding=1&disablekb=1&loop=1&fs=1&mouse=0&t=10">Download v1</a><br>
 </div>
 
 <script>
