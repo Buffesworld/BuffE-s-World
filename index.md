@@ -20,5 +20,5 @@
 ###### v3: [Download](https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworldv3.jar?raw=true)
 ###### v2: [Download](https://github.com/Buffesworld/beta_mod_versions/blob/main/buffeworld%20v2.jar?raw=true)
 ###### v1: [Download](https://github.com/Buffesworld/beta_mod_versions/blob/main/buff-e-world%20v1.jar?raw=true)
-# 
+ 
 ### Alpha
